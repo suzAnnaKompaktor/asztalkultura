@@ -5646,6 +5646,9 @@ hr {
   background-position: top center;
   background-size: cover;
 }
+.footer .container {
+  padding-top: 30px;
+}
 #sectionContent {
   margin-top: 40px;
 }
