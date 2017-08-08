@@ -5656,6 +5656,9 @@ hr {
 .footer .container {
   padding-top: 30px;
 }
+.footer img {
+  margin: 0 auto;
+}
 #sectionContent {
   margin-top: 40px;
 }
